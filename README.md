@@ -1,5 +1,3 @@
-# Database-Final-Project
-
 # 📦 Database Final Project — E-Commerce System
 
 ## 📖 Project Overview
