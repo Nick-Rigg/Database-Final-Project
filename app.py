@@ -4,8 +4,8 @@ from datetime import date
 import random
 import string
 
-url: str = "https://vtrmdayqaxwqnabfavmz.supabase.co"
-key: str = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ0cm1kYXlxYXh3cW5hYmZhdm16Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM2NzU3ODcsImV4cCI6MjA2OTI1MTc4N30.a4cyRRYo3dDBfMZUTPmY_grySIB1X6nXs7mhh5TWwok"
+url: str = ""
+key: str = ""
 
 supabase: Client = create_client(url, key)
 
